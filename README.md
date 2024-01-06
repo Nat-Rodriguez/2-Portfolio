@@ -1,7 +1,32 @@
 # 2-Portfolio
 
-I will create a portfolio web application from scratch.
+I have created a portfolio web application from scratch including:
+
+- My name
+- A recent photo of me
+- A section about me
+- My future work
+
+This includes:
+
+- Active link to my portfolio
+- My contact information with a link to my Github
+- Navigation links which will cause the UI to scroll to the corresponding section
+- Placeholders for my future projects
+- A responsive layout that adapts to usergit viewport
 
 ## Tech Used
 
-https://sketch.io/sketchpad/
+- [Link to webpage used for the placeholders for future projects.](https://sketch.io/sketchpad/)
+- HTML
+- CSS
+
+## Screenshots
+
+<img src = "/Users/fabimuniz/bootcamp/homework/2-Portfolio/assets/images/top.jpg">
+<img src = "/Users/fabimuniz/bootcamp/homework/2-Portfolio/assets/images/center.jpg">
+<img src = "/Users/fabimuniz/bootcamp/homework/2-Portfolio/assets/images/bottom.jpg">
+
+## Deployed Application
+
+[Link to the deployed application](https://nat-rodriguez.github.io/2-Portfolio/)
