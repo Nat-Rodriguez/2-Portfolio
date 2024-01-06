@@ -23,9 +23,9 @@ This includes:
 
 ## Screenshots
 
-<img src = "/Users/fabimuniz/bootcamp/homework/2-Portfolio/assets/images/top.jpg">
-<img src = "/Users/fabimuniz/bootcamp/homework/2-Portfolio/assets/images/center.jpg">
-<img src = "/Users/fabimuniz/bootcamp/homework/2-Portfolio/assets/images/bottom.jpg">
+<img src = "/assets/images/top.jpg">
+<img src = "/assets/images/center.jpg">
+<img src = "/assets/images/bottom.jpg">
 
 ## Deployed Application
 
